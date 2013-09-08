@@ -1,3 +1,5 @@
+THIS FORK HAS THE ONLY PURPOSE OF RELEASING A NOT-SNAPSHOT VERSION OF 1.0-SNAPSHOT
+
 =========================================================================
 Welcome to Apache Commons Imaging  <http://commons.apache.org/imaging/>
 =========================================================================
@@ -79,5 +81,5 @@ For more instructions, please see the documentation at:
 Credits
 =======
 
-See http://commons.apache.org/imaging/team-list.html for the list of 
+See http://commons.apache.org/imaging/team-list.html for the list of
 Imaging committers and main contributors.
