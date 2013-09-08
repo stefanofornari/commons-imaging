@@ -58,9 +58,7 @@
   </properties>
 
   <scm>
-    <connection>git@github.com:stefanofornari/commons-imaging.git</connection>
-    <url>https://github.com/stefanofornari/commons-imaging</url>
-    <tag>HEAD</tag>
+    <connection>scm:git:git@github.com:stefanofornari/commons-imaging.git</connection>
   </scm>
 
   <distributionManagement>
